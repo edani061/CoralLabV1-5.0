@@ -16,11 +16,20 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "OculusVR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Android"
+			]
 		}
 	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor",
-		"Android"
+		"Android",
+		"Windows"
 	]
 }
