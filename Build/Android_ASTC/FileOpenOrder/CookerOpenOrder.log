@@ -518,372 +518,360 @@
 "E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/tony_orig.uexp" 517
 "E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/tony_orig_Mat.uasset" 518
 "E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/tony_orig_Mat.uexp" 519
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/astreopgrgia-sp.uasset" 520
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/astreopgrgia-sp.uexp" 521
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/astreopgrgia-sp_Mat.uasset" 522
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/astreopgrgia-sp_Mat.uexp" 523
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane.uasset" 524
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane.uexp" 525
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane_Mat.uasset" 526
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane_Mat.uexp" 527
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS.uasset" 528
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS.uexp" 529
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS_Mat.uasset" 530
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS_Mat.uexp" 531
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2.uasset" 532
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2.uexp" 533
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2_Mat.uasset" 534
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2_Mat.uexp" 535
-"../../../Engine/Content/BasicShapes/Cube.uasset" 536
-"../../../Engine/Content/BasicShapes/Cube.uexp" 537
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky.uasset" 538
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky.uexp" 539
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky_Mat.uasset" 540
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky_Mat.uexp" 541
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig.uasset" 542
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig.uexp" 543
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig_Mat.uasset" 544
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig_Mat.uexp" 545
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri.uasset" 546
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri.uexp" 547
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri_Mat.uasset" 548
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri_Mat.uexp" 549
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391.uasset" 550
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391.uexp" 551
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391_Mat.uasset" 552
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391_Mat.uexp" 553
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1.uasset" 554
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1.uexp" 555
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1_Mat.uasset" 556
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1_Mat.uexp" 557
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Teal.uasset" 558
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Teal.uexp" 559
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo.uasset" 560
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo.uexp" 561
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo_Mat.uasset" 562
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo_Mat.uexp" 563
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine.uasset" 564
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine.uexp" 565
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine_Mat.uasset" 566
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine_Mat.uexp" 567
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175.uasset" 568
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175.uexp" 569
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175_Mat.uasset" 570
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175_Mat.uexp" 571
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 572
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 573
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 574
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 575
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 576
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 577
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 578
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 579
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 580
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 581
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 582
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 583
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 584
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 585
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 586
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 587
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabType.uasset" 588
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabType.uexp" 589
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabComponent.uasset" 590
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabComponent.uexp" 591
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 592
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 593
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 594
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 595
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 596
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 597
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 598
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 599
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 600
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 601
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 602
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 603
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 604
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 605
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 606
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 607
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 608
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 609
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 610
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 611
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 612
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 613
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 614
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 615
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 616
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 617
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 618
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 619
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 620
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 621
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 622
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 623
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 624
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 625
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 626
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 627
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 628
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 629
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 630
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 631
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 632
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 633
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 634
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 635
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 636
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 637
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 638
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 639
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 640
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 641
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 642
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 643
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 644
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 645
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 646
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 647
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 648
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 649
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 650
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 651
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 652
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 653
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 654
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 655
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 656
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 657
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 658
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 659
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 660
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 661
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 662
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 663
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 664
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 665
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 666
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 667
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 668
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 669
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 670
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 671
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 672
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 673
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 674
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 675
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 676
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 677
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 678
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 679
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 680
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 681
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 682
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 683
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 684
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 685
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 686
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 687
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 688
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 689
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 690
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 691
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 692
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 693
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 694
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 695
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 696
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 697
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 698
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 699
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 700
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 701
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 702
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 703
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 704
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 705
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 706
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 707
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 708
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 709
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 710
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 711
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 712
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 713
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 714
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 715
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 716
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 717
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 718
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 719
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset" 720
-"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uexp" 721
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ChannelMasks/SelectV4Channel.uasset" 722
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ChannelMasks/SelectV4Channel.uexp" 723
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/PositionToVector.uasset" 724
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/PositionToVector.uexp" 725
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 726
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 727
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 728
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 729
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 730
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 731
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 732
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 733
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 734
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 735
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 736
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 737
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.ubulk" 738
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.uasset" 739
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.uexp" 740
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 741
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 742
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 743
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 744
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 745
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 746
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 747
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 748
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 749
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 750
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 751
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 752
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 753
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 754
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 755
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 756
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 757
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 758
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 759
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 760
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 761
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 762
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 763
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 764
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 765
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 766
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 767
-"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 768
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 769
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 770
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 771
-"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 772
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 773
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 774
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 775
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 776
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 777
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 778
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 779
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 780
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 781
-"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 782
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 783
-"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 784
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 785
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 786
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Red.uasset" 787
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Red.uexp" 788
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 789
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 790
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 791
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 792
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 793
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 794
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_VRCursor.uasset" 795
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_VRCursor.uexp" 796
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/Menu.uasset" 797
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/Menu.uexp" 798
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRPawn.uasset" 799
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRPawn.uexp" 800
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRGameMode.uasset" 801
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRGameMode.uexp" 802
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference.uasset" 803
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference.uexp" 804
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference_Mat.uasset" 805
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference_Mat.uexp" 806
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig.uasset" 807
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig.uexp" 808
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig_Mat.uasset" 809
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig_Mat.uexp" 810
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/_GENERATED/edani/Boolean_F20675CD.uasset" 811
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/_GENERATED/edani/Boolean_F20675CD.uexp" 812
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig.uasset" 813
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig.uexp" 814
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig_Mat.uasset" 815
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig_Mat.uexp" 816
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 817
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 818
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig.uasset" 819
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig.uexp" 820
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig_Mat.uasset" 821
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig_Mat.uexp" 822
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig.uasset" 823
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig.uexp" 824
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig_Mat.uasset" 825
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig_Mat.uexp" 826
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_1EDDC211.uasset" 827
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_1EDDC211.uexp" 828
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_2B2F2628.uasset" 829
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_2B2F2628.uexp" 830
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu.uasset" 831
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu.uexp" 832
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu_Mat.uasset" 833
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu_Mat.uexp" 834
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY.uasset" 835
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY.uexp" 836
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY_Mat.uasset" 837
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY_Mat.uexp" 838
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2.uasset" 839
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2.uexp" 840
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2_Mat.uasset" 841
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2_Mat.uexp" 842
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp.uasset" 843
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp.uexp" 844
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp_Mat.uasset" 845
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp_Mat.uexp" 846
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset" 847
-"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uexp" 848
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1.uasset" 849
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1.uexp" 850
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1_Mat.uasset" 851
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1_Mat.uexp" 852
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/euphylia-ancora.uasset" 853
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/euphylia-ancora.uexp" 854
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/euphylia-ancora_Mat.uasset" 855
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/euphylia-ancora_Mat.uexp" 856
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs_.uasset" 857
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs_.uexp" 858
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs__Mat.uasset" 859
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs__Mat.uexp" 860
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/1623167.uasset" 861
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/1623167.uexp" 862
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/1623167_Mat.uasset" 863
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/1623167_Mat.uexp" 864
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.ubulk" 865
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.uasset" 866
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.uexp" 867
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.ubulk" 868
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.uasset" 869
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.uexp" 870
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.ubulk" 871
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.uasset" 872
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.uexp" 873
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.ubulk" 874
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.uasset" 875
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.uexp" 876
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/Floor.uasset" 877
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/Floor.uexp" 878
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa.uasset" 879
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa.uexp" 880
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa_Mat.uasset" 881
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa_Mat.uexp" 882
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2.uexp" 883
-"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2.umap" 884
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 885
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 886
-"../../../Engine/Content/Maps/Entry.uexp" 887
-"../../../Engine/Content/Maps/Entry.umap" 888
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane.uasset" 520
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane.uexp" 521
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane_Mat.uasset" 522
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Stephane_Mat.uexp" 523
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS.uasset" 524
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS.uexp" 525
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS_Mat.uasset" 526
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Hsu_et_al___2020__TCRS_Mat.uexp" 527
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2.uasset" 528
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2.uexp" 529
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2_Mat.uasset" 530
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/callyspongia-confoederata-2_Mat.uexp" 531
+"../../../Engine/Content/BasicShapes/Cube.uasset" 532
+"../../../Engine/Content/BasicShapes/Cube.uexp" 533
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky.uasset" 534
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky.uexp" 535
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky_Mat.uasset" 536
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/20210116_abstract_coral_reef_society_conference_vicky_Mat.uexp" 537
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig.uasset" 538
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig.uexp" 539
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig_Mat.uasset" 540
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/morris2_orig_Mat.uexp" 541
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri.uasset" 542
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri.uexp" 543
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri_Mat.uasset" 544
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/stylissa-carteri_Mat.uexp" 545
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391.uasset" 546
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391.uexp" 547
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391_Mat.uasset" 548
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/img-3391_Mat.uexp" 549
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1.uasset" 550
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1.uexp" 551
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1_Mat.uasset" 552
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/boat1_Mat.uexp" 553
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Teal.uasset" 554
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Teal.uexp" 555
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo.uasset" 556
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo.uexp" 557
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo_Mat.uasset" 558
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Lab_photo_Mat.uexp" 559
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine.uasset" 560
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine.uexp" 561
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine_Mat.uasset" 562
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Laurine_Mat.uexp" 563
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175.uasset" 564
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175.uexp" 565
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175_Mat.uasset" 566
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Vianney-Denis-126x175_Mat.uexp" 567
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 568
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 569
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 570
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 571
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 572
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 573
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 574
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 575
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 576
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 577
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 578
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 579
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRInteractionBPI.uasset" 580
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRInteractionBPI.uexp" 581
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Haptics/GrabHapticEffect.uasset" 582
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Haptics/GrabHapticEffect.uexp" 583
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabType.uasset" 584
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabType.uexp" 585
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabComponent.uasset" 586
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/GrabComponent.uexp" 587
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uasset" 588
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_MassInitializationMode.uexp" 589
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 590
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uexp" 591
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uasset" 592
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessEvaluation.uexp" 593
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uasset" 594
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeInteger.uexp" 595
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uasset" 596
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraArraySamplingMode.uexp" 597
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uasset" 598
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_WrapClamp.uexp" 599
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uasset" 600
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Arrays/SelectVectorFromArray.uexp" 601
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uasset" 602
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_PositionInitializationMode.uexp" 603
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uasset" 604
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_VectorByFloat.uexp" 605
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uasset" 606
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnExecIndex.uexp" 607
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uasset" 608
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/NormalizedExecutionIndex.uexp" 609
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uasset" 610
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Execution/ReturnNormalizedExecIndex.uexp" 611
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uasset" 612
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_LifetimeMode.uexp" 613
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 614
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uexp" 615
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 616
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uexp" 617
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 618
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uexp" 619
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 620
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uexp" 621
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 622
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uexp" 623
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 624
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uexp" 625
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 626
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uexp" 627
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 628
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uexp" 629
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uasset" 630
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRangeFloat.uexp" 631
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 632
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uexp" 633
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uasset" 634
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Multiply/Multiply_Vector.uexp" 635
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 636
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uexp" 637
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 638
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uexp" 639
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 640
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uexp" 641
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 642
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uexp" 643
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 644
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uexp" 645
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 646
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uexp" 647
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uasset" 648
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomRange.uexp" 649
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uasset" 650
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSet.uexp" 651
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uasset" 652
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_ColorInitializationMode.uexp" 653
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uasset" 654
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/LinearColor/HueShiftLinearColor.uexp" 655
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uasset" 656
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraChannelCorrelation.uexp" 657
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uasset" 658
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeRibbon.uexp" 659
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 660
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uexp" 661
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 662
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uexp" 663
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 664
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/System/SystemState.uexp" 665
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NPC_VRTemplate.uasset" 666
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NPC_VRTemplate.uexp" 667
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 668
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 669
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uasset" 670
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DepthFromWorldPosition.uexp" 671
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uasset" 672
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/Functions/MF_OccludedPixels.uexp" 673
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportNoise.uasset" 674
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportNoise.uexp" 675
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uasset" 676
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Math/SaturateFloat.uexp" 677
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uasset" 678
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Particle_InfiniteLife.uexp" 679
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 680
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uexp" 681
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_PlayAreaBounds.uasset" 682
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_PlayAreaBounds.uexp" 683
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uasset" 684
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusDistributionMode.uexp" 685
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uasset" 686
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraTorusMode.uexp" 687
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uasset" 688
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SizeScaleMode.uexp" 689
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uasset" 690
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_UVFlippingMode.uexp" 691
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uasset" 692
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/Ribbons/ENiagara_UnsetDirectSetRandom.uexp" 693
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uasset" 694
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/V2/CalculateRandomBool.uexp" 695
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uasset" 696
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagara_SpriteRotationMode.uexp" 697
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uasset" 698
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/V2/InitializeParticle.uexp" 699
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportCylinder.uasset" 700
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_TeleportCylinder.uexp" 701
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 702
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 703
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 704
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uexp" 705
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 706
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uexp" 707
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 708
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uexp" 709
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 710
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uexp" 711
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 712
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/RandomRange.uexp" 713
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uasset" 714
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorusKnot.uexp" 715
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uasset" 716
+"../../../Engine/Plugins/FX/Niagara/Content/Enums/ENiagaraVector4_Channels.uexp" 717
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ChannelMasks/SelectV4Channel.uasset" 718
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ChannelMasks/SelectV4Channel.uexp" 719
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/PositionToVector.uasset" 720
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/PositionToVector.uexp" 721
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 722
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uexp" 723
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uasset" 724
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/ParametricTorus.uexp" 725
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 726
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uexp" 727
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uasset" 728
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Location/TorusLocation.uexp" 729
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportRing.uasset" 730
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportRing.uexp" 731
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uasset" 732
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRTeleportVisualizer.uexp" 733
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.ubulk" 734
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.uasset" 735
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Textures/T_Hologrid.uexp" 736
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 737
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 738
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 739
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 740
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 741
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 742
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 743
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 744
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 745
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 746
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 747
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 748
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uasset" 749
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/Helpers/SimulationPosition.uexp" 750
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uasset" 751
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Localspace/TransformPosition.uexp" 752
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uasset" 753
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamEmitterSetup.uexp" 754
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 755
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uexp" 756
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uasset" 757
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitSpeed.uexp" 758
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uasset" 759
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/ApplyRotationVector.uexp" 760
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uasset" 761
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_RotationalSolve.uexp" 762
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uasset" 763
+"../../../Engine/Plugins/FX/Niagara/Content/Icons/Modules/T_Icon_Solver_LimitAccel.uexp" 764
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 765
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uexp" 766
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uasset" 767
+"../../../Engine/Plugins/FX/Niagara/Content/Functions/Spline/FindPositionOnBezierSpline.uexp" 768
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uasset" 769
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/SpawnBeam.uexp" 770
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uasset" 771
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Beams/BeamWidth.uexp" 772
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uasset" 773
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/DefaultRibbonMaterial_NoGradient.uexp" 774
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 775
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uexp" 776
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 777
+"../../../Engine/Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uexp" 778
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 779
+"../../../Engine/Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uexp" 780
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportTrace.uasset" 781
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_TeleportTrace.uexp" 782
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Red.uasset" 783
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/ED_Red.uexp" 784
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_MenuLaser.uasset" 785
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/VFX/NS_MenuLaser.uexp" 786
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/WidgetMenu.uasset" 787
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/WidgetMenu.uexp" 788
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 789
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 790
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_VRCursor.uasset" 791
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Materials/M_VRCursor.uexp" 792
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/Menu.uasset" 793
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/Menu.uexp" 794
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRPawn.uasset" 795
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRPawn.uexp" 796
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRGameMode.uasset" 797
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VRTemplate/Blueprints/VRGameMode.uexp" 798
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference.uasset" 799
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference.uexp" 800
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference_Mat.uasset" 801
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Denis_Chen2016_15thInternationalCoralReefConference_Mat.uexp" 802
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig.uasset" 803
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig.uexp" 804
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig_Mat.uasset" 805
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/19149_orig_Mat.uexp" 806
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/_GENERATED/edani/Boolean_F20675CD.uasset" 807
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/_GENERATED/edani/Boolean_F20675CD.uexp" 808
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig.uasset" 809
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig.uexp" 810
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig_Mat.uasset" 811
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/4359940_orig_Mat.uexp" 812
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 813
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 814
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig.uasset" 815
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig.uexp" 816
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig_Mat.uasset" 817
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vanessa-land_1_orig_Mat.uexp" 818
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig.uasset" 819
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig.uexp" 820
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig_Mat.uasset" 821
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/vicky-land_1_orig_Mat.uexp" 822
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_1EDDC211.uasset" 823
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_1EDDC211.uexp" 824
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_2B2F2628.uasset" 825
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/VirtualRealityBP/Maps/_GENERATED/edani/Merge_2B2F2628.uexp" 826
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu.uasset" 827
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu.uexp" 828
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu_Mat.uasset" 829
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Eric_Liu_Mat.uexp" 830
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY.uasset" 831
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY.uexp" 832
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY_Mat.uasset" 833
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/2021JOINT-LAB_MEETING_ACCRETION_COMPLEXITY_Mat.uexp" 834
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2.uasset" 835
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2.uexp" 836
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2_Mat.uasset" 837
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/valonia-ventricosa-2_Mat.uexp" 838
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp.uasset" 839
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp.uexp" 840
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp_Mat.uasset" 841
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/suberea-sp_Mat.uexp" 842
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uasset" 843
+"../../../Engine/Content/MapTemplates/Materials/BasicAsset03.uexp" 844
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1.uasset" 845
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1.uexp" 846
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1_Mat.uasset" 847
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/xestospongia-testudinaria-3_1_Mat.uexp" 848
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs_.uasset" 849
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs_.uexp" 850
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs__Mat.uasset" 851
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/Fish_assemblage_and_bioeroder_interactions_with_coral_reefs__Mat.uexp" 852
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.ubulk" 853
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.uasset" 854
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2_BuiltData.uexp" 855
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.ubulk" 856
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.uasset" 857
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_N.uexp" 858
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.ubulk" 859
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.uasset" 860
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_Brown_Ceramic_Tiles_ufgpfh1ew_1K_D.uexp" 861
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.ubulk" 862
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.uasset" 863
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/Megascans/Surfaces/Brown_Ceramic_Tiles_ufgpfh1ew/T_BrownCeramicTiles_ufgpfh1ew_1K_ORDp.uexp" 864
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/Floor.uasset" 865
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Materials/Floor.uexp" 866
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa.uasset" 867
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa.uexp" 868
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa_Mat.uasset" 869
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Assets/acanthalla-cavernosa_Mat.uexp" 870
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2.uexp" 871
+"E:/Documents/VR Projects/CoralLabV1 5.0/Content/My_Stuff/Maps/CoralLab_2.umap" 872
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 873
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 874
+"../../../Engine/Content/Maps/Entry.uexp" 875
+"../../../Engine/Content/Maps/Entry.umap" 876
